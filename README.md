@@ -4,3 +4,4 @@ I'm Jr. Front-end Developer👩🏻‍💻
 --
 Click here to access my personal blog🖱
 --
+https://dilarauluturhan.github.io/dilarauluturhan/
