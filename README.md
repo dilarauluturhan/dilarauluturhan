@@ -9,5 +9,3 @@
 :computer_mouse: How to reach me: 
 
 https://dilarauluturhan.github.io/dilarauluturhan/
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=dilarauluturhan&show_icons=true&theme=gradient)
