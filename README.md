@@ -8,4 +8,6 @@
 
 :computer_mouse: How to reach me: 
 
-https://dilarauluturhan.github.io/dilarauluturhan/
+[My Personal Blog](https://dilarauluturhan.github.io/dilarauluturhan/)
+
+![](https://user-images.githubusercontent.com/120499369/229214030-c519b3f3-6363-4468-85ef-11fda4aabe18.jpg)
