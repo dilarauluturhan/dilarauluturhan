@@ -10,4 +10,4 @@
 
 [My Personal Blog](https://dilarauluturhan.github.io/dilarauluturhan/)
 
-![](https://user-images.githubusercontent.com/120499369/229214030-c519b3f3-6363-4468-85ef-11fda4aabe18.jpg)
+![](https://user-images.githubusercontent.com/120499369/229237129-d35d9b2d-8799-4a67-9796-e0a29b15fc2f.jpg)
