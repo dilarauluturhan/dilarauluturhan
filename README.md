@@ -4,7 +4,7 @@
 
 :woman_technologist: I'm currently working on HTML, CSS, SASS, Bootstrap, Tailwind CSS, JavaScript.
 
-:nerd_face: I'm currently learning React.js and Next.js.
+:nerd_face: I'm currently learning and developing React.js.
 
 :computer_mouse: How to reach me: 
 
